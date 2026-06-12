@@ -1,0 +1,6 @@
+1. Install a python 3.10 version
+2. Create a virtual environment
+    a)py -3.10 -m venv brain-tumor-env
+    a).\brain-tumor-env\Scripts\activate 
+3. Run
+    python main.py
